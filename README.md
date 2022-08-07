@@ -1,7 +1,7 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=00FFFF&lines=Hi!!+I+am+Raveesha+Shaminda.;I'm+currently+learning+JAVASCRIPT.)](https://git.io/typing-svg)
 <h3>Connect With Me</h3>
 
-<a href="https://api.whatsapp.com/send?phone=94756024770&text=Hello this is the starting message">Whatsapp</a><br>
+<a href="https://api.whatsapp.com/send?phone=94756024770&text=Hello!!!">Whatsapp</a><br>
 
 <br>
 
