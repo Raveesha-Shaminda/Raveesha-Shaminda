@@ -12,7 +12,11 @@
 
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Raveesha-Shaminda&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raveesha-Shaminda&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raveesha-Shaminda&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)</div>
 
-![](https://komarev.com/ghpvc/?username=your-github-Raveesha-Shaminda&color=green)
-<br>
+
+
+
+
+
+<div align="center"><img src="https://profile-counter.glitch.me/Raveesha-Shaminda/count.svg" /><br>Profile Viewers</div>
